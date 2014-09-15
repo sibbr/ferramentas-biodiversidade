@@ -11,6 +11,8 @@ Para contribuir com o repositório, basta [seguir estas orientações](CONTRIBUA
   - Listas:
     - [Lista de espécies ameaçadas da fauna brasileira](http://www.icmbio.gov.br/portal/biodiversidade/fauna-brasileira/lista-de-especies.html)
     - [Lista de espécies da flora do Brasil](http://floradobrasil.jbrj.gov.br/jabot/listaBrasil/PrincipalUC/PrincipalUC.do) 
+  - Ciência cidadã:
+    - [SISS-Geo](http://www.biodiversidade.ciss.fiocruz.br/apresenta%C3%A7%C3%A3o-0) - Ferramenta do Centro de Informação em Saúde Silvestre para a notificação de animais que aparentem algum tipo de enfermidade para monitoramento de risco à saúde silvestre;
   
 - Internacionais
   - Publicação:
@@ -24,3 +26,4 @@ Para contribuir com o repositório, basta [seguir estas orientações](CONTRIBUA
     - [Conversor de coordenadas do Canadensys](http://data.canadensys.net/tools/coordinates) - Ferramenta para conversão de coordenadas do tipo verbatim para decimal;
   - Análise:
     - [GBIF Analytics](http://analytics.gbif-uat.org/) - Coleção de relatórios padrão sobre uma base de dados de listas e ocorrências de espécies;
+  - [iNaturalist](http://www.inaturalist.org/) Ferramenta de ciência cidadã para coleta e publicação de registros de ocorrência do tipo observação na natureza.
