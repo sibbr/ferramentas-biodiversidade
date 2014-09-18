@@ -25,6 +25,7 @@ Para contribuir com o repositório, basta [seguir estas orientações](CONTRIBUA
         - [Floradata](http://cncflora.jbrj.gov.br/floradata) Dados de nomes da flora do Brasil, simplificados e disponível como serviço web. [API](http://cncflora.jbrj.gov.br/floradata/api.html) e [github](https://github.com/CNCFlora/floradata).
  - Organizações no Github:
    - [SIBBR](https://github.com/sibbr)
+   - [CNCFlora](https://github.com/cncflora)
 - Internacionais
   - Publicação:
     - [Integrated Publishing Toolkit](http://www.gbif.org/ipt) - Ferramenta de publicação de dados no formato DwC-A
