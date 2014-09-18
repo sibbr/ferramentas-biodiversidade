@@ -13,7 +13,8 @@ Para contribuir com o repositório, basta [seguir estas orientações](CONTRIBUA
     - [Lista de espécies da flora do Brasil](http://floradobrasil.jbrj.gov.br/jabot/listaBrasil/PrincipalUC/PrincipalUC.do) 
   - Ciência cidadã:
     - [SISS-Geo](http://www.biodiversidade.ciss.fiocruz.br/apresenta%C3%A7%C3%A3o-0) - Ferramenta do Centro de Informação em Saúde Silvestre para a notificação de animais que aparentem algum tipo de enfermidade para monitoramento de risco à saúde silvestre;
-  
+  - Geo:
+    - [INDE](http://www.inde.gov.br/geo-servicos) - Infraestrutura Nacional de Dados Espaciais, com catalogo de dados geoespaciais do Brasil e visualizador.
 - Internacionais
   - Publicação:
     - [Integrated Publishing Toolkit](http://www.gbif.org/ipt) - Ferramenta de publicação de dados no formato DwC-A
