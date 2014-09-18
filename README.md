@@ -22,6 +22,7 @@ Para contribuir com o repositório, basta [seguir estas orientações](CONTRIBUA
     - IPT:
       - [JBRJ](http://ipt.jbrj.gov.br/ipt): Lista da flora do Brasil, JBRJ Herbarium, Lista espécies ameçadas da flora 2013.
     - [DarwinCore Services](http://cncflora.jbrj.gov.br/dwc_services/index.html) Serviços utilitários em registros DarwinCore: Conversão de formato, validação, correções comuns e busca. [github](https://github.com/CNCFlora/dwc-services)
+        - [Floradata](http://cncflora.jbrj.gov.br/floradata) Dados de nomes da flora do Brasil, simplificados e disponível como serviço web. [API](http://cncflora.jbrj.gov.br/floradata/api.html) e [github](https://github.com/CNCFlora/floradata).
 - Internacionais
   - Publicação:
     - [Integrated Publishing Toolkit](http://www.gbif.org/ipt) - Ferramenta de publicação de dados no formato DwC-A
