@@ -19,6 +19,8 @@ Para contribuir com o repositório, basta [seguir estas orientações](CONTRIBUA
     - Tapir/Digir:
       - [Herbario JBRJ](http://tapirlink.jbrj.gov.br/tapir.php/tapir.php/RB)
       - [SpeciesLink](http://tapir.cria.org.br/tapirlink/tapir.php/specieslink)
+    - IPT:
+      - [JBRJ](http://ipt.jbrj.gov.br/ipt): Lista da flora do Brasil, JBRJ Herbarium, Lista espécies ameçadas da flora 2013.
 - Internacionais
   - Publicação:
     - [Integrated Publishing Toolkit](http://www.gbif.org/ipt) - Ferramenta de publicação de dados no formato DwC-A
