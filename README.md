@@ -21,6 +21,7 @@ Para contribuir com o repositório, basta [seguir estas orientações](CONTRIBUA
       - [SpeciesLink](http://tapir.cria.org.br/tapirlink/tapir.php/specieslink)
     - IPT:
       - [JBRJ](http://ipt.jbrj.gov.br/ipt): Lista da flora do Brasil, JBRJ Herbarium, Lista espécies ameçadas da flora 2013.
+    - [DarwinCore Services](http://cncflora.jbrj.gov.br/dwc_services/index.html) Serviços utilitários em registros DarwinCore: Conversão de formato, validação, correções comuns e busca. [github](https://github.com/CNCFlora/dwc-services)
 - Internacionais
   - Publicação:
     - [Integrated Publishing Toolkit](http://www.gbif.org/ipt) - Ferramenta de publicação de dados no formato DwC-A
