@@ -31,3 +31,4 @@ Para contribuir com o repositório, basta [seguir estas orientações](CONTRIBUA
   - Bibliotecas:
     - [Python DwC-A Reader](https://github.com/BelgianBiodiversityPlatform/python-dwca-reader)
     - [Ruby DwC-A Reader](https://github.com/GlobalNamesArchitecture/dwc-archive)
+    - [Ruby Biodiversity Name Parser](https://github.com/GlobalNamesArchitecture/biodiversity)
