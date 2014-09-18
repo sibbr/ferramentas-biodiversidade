@@ -30,3 +30,4 @@ Para contribuir com o repositório, basta [seguir estas orientações](CONTRIBUA
   - [iNaturalist](http://www.inaturalist.org/) Ferramenta de ciência cidadã para coleta e publicação de registros de ocorrência do tipo observação na natureza.
   - Bibliotecas:
     - [Python DwC-A Reader](https://github.com/BelgianBiodiversityPlatform/python-dwca-reader)
+    - [Ruby DwC-A Reader](https://github.com/GlobalNamesArchitecture/dwc-archive)
