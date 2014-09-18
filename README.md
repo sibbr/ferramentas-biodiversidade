@@ -28,3 +28,5 @@ Para contribuir com o repositório, basta [seguir estas orientações](CONTRIBUA
   - Análise:
     - [GBIF Analytics](http://analytics.gbif-uat.org/) - Coleção de relatórios padrão sobre uma base de dados de listas e ocorrências de espécies;
   - [iNaturalist](http://www.inaturalist.org/) Ferramenta de ciência cidadã para coleta e publicação de registros de ocorrência do tipo observação na natureza.
+  - Bibliotecas:
+    - [Python DwC-A Reader](https://github.com/BelgianBiodiversityPlatform/python-dwca-reader)
