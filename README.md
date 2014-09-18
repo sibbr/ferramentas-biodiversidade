@@ -18,6 +18,7 @@ Para contribuir com o repositório, basta [seguir estas orientações](CONTRIBUA
   - Serviços Web:
     - Tapir/Digir:
       - [Herbario JBRJ](http://tapirlink.jbrj.gov.br/tapir.php/tapir.php/RB)
+      - [SpeciesLink](http://tapir.cria.org.br/tapirlink/tapir.php/specieslink)
 - Internacionais
   - Publicação:
     - [Integrated Publishing Toolkit](http://www.gbif.org/ipt) - Ferramenta de publicação de dados no formato DwC-A
