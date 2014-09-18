@@ -45,3 +45,4 @@ Para contribuir com o repositório, basta [seguir estas orientações](CONTRIBUA
     - [Ruby Biodiversity Name Parser](https://github.com/GlobalNamesArchitecture/biodiversity)
   - Organizações no Github:
     - [GBIF](https://github.com/gbif)
+    - [GlobalNamesArchitecture](https://github.com/GlobalNamesArchitecture)
