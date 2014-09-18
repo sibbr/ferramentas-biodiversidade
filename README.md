@@ -46,3 +46,4 @@ Para contribuir com o repositório, basta [seguir estas orientações](CONTRIBUA
   - Organizações no Github:
     - [GBIF](https://github.com/gbif)
     - [GlobalNamesArchitecture](https://github.com/GlobalNamesArchitecture)
+    - [Vizzuality](https://github.com/Vizzuality)
