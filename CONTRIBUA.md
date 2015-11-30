@@ -1,6 +1,6 @@
 # Orientações para a contribuição
 
-Por gentileza, verifique que seus \'pull resuqests\' respteitem as seguintes diretrizes:
+Por gentileza, verifique que seus \'pull request\' respeitem as seguintes diretrizes:
 
 - Faça um único pull request para cada sugestão.
 - Escolha a seção correspondente que mais se encaixe à sua sugestão.
