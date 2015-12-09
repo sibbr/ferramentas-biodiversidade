@@ -10,7 +10,7 @@ Para contribuir com o repositório, basta [seguir estas orientações](CONTRIBUA
 - Nacionais
   - Listas:
     - [Lista de espécies ameaçadas da fauna brasileira](http://www.icmbio.gov.br/portal/biodiversidade/fauna-brasileira/lista-de-especies.html)
-    - [Lista de espécies da flora do Brasil](http://floradobrasil.jbrj.gov.br/jabot/listaBrasil/PrincipalUC/PrincipalUC.do) 
+    - [Lista de espécies da flora do Brasil](http://floradobrasil.jbrj.gov.br/jabot/listaBrasil/PrincipalUC/PrincipalUC.do)
   - Ciência cidadã:
     - [SISS-Geo](http://www.biodiversidade.ciss.fiocruz.br/apresenta%C3%A7%C3%A3o-0) - Ferramenta do Centro de Informação em Saúde Silvestre para a notificação de animais que aparentem algum tipo de enfermidade para monitoramento de risco à saúde silvestre;
   - Geo:
@@ -34,6 +34,8 @@ Para contribuir com o repositório, basta [seguir estas orientações](CONTRIBUA
     - [Morpho](https://knb.ecoinformatics.org/#tools/morpho) - Ferramenta de gestão para dados terrestres, ambientais and ecológicos.
   - Busca:
     - [iSpecies](http://ispecies.org/) - Ferramenta que busca a partir de nomes, resultados de ocorrências no GBIF, artigos do google scholar, imagens no flickr, etc.
+  - Indexadores:
+    - [lontra-harvester](https://github.com/WingLongitude/lontra-harvester) - Indexador utilizado para adicionar dados ao [explorador](https://github.com/WingLongitude/explorer).
   - Geo:
     - [Conversor de coordenadas do Canadensys](http://data.canadensys.net/tools/coordinates) - Ferramenta para conversão de coordenadas do tipo verbatim para decimal;
   - Análise:
